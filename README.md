@@ -29,7 +29,9 @@ https://1drv.ms/x/c/bf9ac6185779ed8a/EWqAwxtnHu9Ak_kV799xs68B9Iz9CpWAEepGwPCs1KQ
 **🛠️ Tools Used:**
 
 Power BI Desktop
+
 Data Visualization and DAX
+
 Geospatial mapping with Bing Maps
 
 **My dashaboard looking as it**
