@@ -36,7 +36,8 @@ Geospatial mapping with Bing Maps
 
 **My dashaboard looking as it**
 
-![Screenshot 2025-06-03 040036](https://github.com/user-attachments/assets/8d832f72-dd23-4d42-a6b2-7b0c0c602184)
+![image](https://github.com/user-attachments/assets/a38fa056-7c08-4404-b0a9-45767c2c2866)
+
 
 **This is forecast of my dashboard you can see**
 ![Screenshot 2025-06-03 040134](https://github.com/user-attachments/assets/019ed49a-3fbe-4432-9fa7-1faa18e1ccf3)
