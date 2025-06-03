@@ -4,13 +4,26 @@ This interactive dashboard provides a comprehensive analysis of sales and profit
 **💡 Key Features:**
 
 Sales & Profit Trends by Month and Year (2019–2020)
+
 Category and Sub-Category Analysis (e.g., Phones, Chairs, Binders)
+
 Sales Performance by Segment (Consumer, Corporate, Home Office)
+
 Preferred Shipping Modes (Standard, Second Class, etc.)
+
 Payment Mode Distribution (COD, Online, Cards)
+
 State-wise Sales Analysis (Top: California, New York, Texas)
+
 Forecasting: 15-day sales prediction based on historical trends
+
 Regional Distribution of Sales (West, East, Central, South)
+
+
+
+**Dataset**   
+https://1drv.ms/x/c/bf9ac6185779ed8a/EY1lUUUsDvxJiCiEgQRLg-8Bhe94xWHyZ9xHGDxSmjroSA?e=Y6QTBv
+https://1drv.ms/x/c/bf9ac6185779ed8a/EWqAwxtnHu9Ak_kV799xs68B9Iz9CpWAEepGwPCs1KQ30w?e=v5x9DA
 
 
 **🛠️ Tools Used:**
