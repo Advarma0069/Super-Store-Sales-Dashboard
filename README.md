@@ -1,2 +1,2 @@
 # Super-Store-Sales-Dashboard
-Super Store Sales Dashboard you can easily access the data of sales
+Super Store Sales Dashboard and this was created by aditya varma used with Power Bi
